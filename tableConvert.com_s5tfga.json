@@ -1,0 +1,62 @@
+[
+    {
+        "\n            . ": "Corresponding recommendations ",
+        "Thyroid disease\n            . ": "14.29 and 14.30 ",
+        "Celiac disease\n            . ": "14.31–14.33 ",
+        "Hypertension\n            . ": "14.34–14.37 ",
+        "Dyslipidemia\n            . ": "14.38–14.42 ",
+        "Nephropathy\n            . ": "14.45 and 14.46 ",
+        "Retinopathy\n            . ": "14.47–14.49 ",
+        "Neuropathy\n            . ": "14.50 "
+    },
+    {
+        "\n            . ": "Method ",
+        "Thyroid disease\n            . ": "Thyroid-stimulating hormone; consider antithyroglobulin and antithyroid peroxidase antibodies ",
+        "Celiac disease\n            . ": "IgA tTG if total IgA normal; IgG tTG and deamidated gliadin antibodies if IgA deficient ",
+        "Hypertension\n            . ": "Blood pressure monitoring ",
+        "Dyslipidemia\n            . ": "Lipid profile, nonfasting acceptable initially ",
+        "Nephropathy\n            . ": "Albumin-to-creatinine ratio; random sample acceptable initially ",
+        "Retinopathy\n            . ": "Dilated fundoscopy or retinal photography ",
+        "Neuropathy\n            . ": "Foot exam with foot pulses, pinprick, 10-g monofilament sensation tests, vibration, and ankle reflexes "
+    },
+    {
+        "\n            . ": "When to start ",
+        "Thyroid disease\n            . ": "Soon after diagnosis ",
+        "Celiac disease\n            . ": "Soon after diagnosis ",
+        "Hypertension\n            . ": "At diagnosis ",
+        "Dyslipidemia\n            . ": "Soon after diagnosis; preferably after glycemia has improved and ≥2 years old ",
+        "Nephropathy\n            . ": "Puberty or &gt;10 years old, whichever is earlier, and diabetes duration of 5 years ",
+        "Retinopathy\n            . ": "Puberty or ≥11 years old, whichever is earlier, and diabetes duration of 3–5 years ",
+        "Neuropathy\n            . ": "Puberty or ≥10 years old, whichever is earlier, and diabetes duration of 5 years "
+    },
+    {
+        "\n            . ": "Follow-up frequency ",
+        "Thyroid disease\n            . ": "Every 1–2 years if thyroid antibodies negative; more often if symptoms develop or presence of thyroid antibodies ",
+        "Celiac disease\n            . ": "Within 2 years and then at 5 years after diagnosis; sooner if symptoms develop ",
+        "Hypertension\n            . ": "Every visit ",
+        "Dyslipidemia\n            . ": "If LDL ≤100 mg/dL, repeat at 9–11 years old; then, if &lt;100 mg/dL, every 3 years ",
+        "Nephropathy\n            . ": "If normal, annually; if abnormal, repeat with confirmation in two of three samples over 6 months ",
+        "Retinopathy\n            . ": "If normal, every 2 years; consider less frequently (every 4 years) if A1C &lt;8% and eye professional agrees ",
+        "Neuropathy\n            . ": "If normal, annually "
+    },
+    {
+        "\n            . ": "Target ",
+        "Thyroid disease\n            . ": "NA ",
+        "Celiac disease\n            . ": "NA ",
+        "Hypertension\n            . ": "&lt;90th percentile for age, sex, and height; if ≥13 years old, &lt;120/80 mmHg ",
+        "Dyslipidemia\n            . ": "LDL &lt;100 mg/dL ",
+        "Nephropathy\n            . ": "Albumin-to-creatinine ratio &lt;30 mg/g ",
+        "Retinopathy\n            . ": "No retinopathy ",
+        "Neuropathy\n            . ": "No neuropathy "
+    },
+    {
+        "\n            . ": "Treatment ",
+        "Thyroid disease\n            . ": "Appropriate treatment of underlying thyroid disorder ",
+        "Celiac disease\n            . ": "After confirmation, start gluten-free diet ",
+        "Hypertension\n            . ": "Lifestyle modification for elevated blood pressure (90th to &lt;95th percentile for age, sex, and height or, if ≥13 years old, 120–129/&lt;80 mmHg); lifestyle modification and ACE inhibitor or ARB* for hypertension (≥95th percentile for age, sex, and height or, if ≥13 years old, ≥130/80 mmHg) ",
+        "Dyslipidemia\n            . ": "If abnormal, optimize glucose control and medical nutrition therapy; if after 6 months LDL &gt;160 mg/dL or &gt;130 mg/dL with cardiovascular risk factor(s), initiate statin therapy (for those aged &gt;10 years)* ",
+        "Nephropathy\n            . ": "Optimize glucose and blood pressure control; ACE inhibitor* if albumin-to-creatinine ratio is elevated in two of three samples over 6 months ",
+        "Retinopathy\n            . ": "Optimize glucose control; treatment per ophthalmology ",
+        "Neuropathy\n            . ": "Optimize glucose control; referral to neurology "
+    }
+]
