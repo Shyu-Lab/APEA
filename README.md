@@ -1,6 +1,6 @@
 # AMIA 2025 Annual Symposium Conference
 
-This code repository is the paper we published at AMIA 2025 Annual Symposium Conference.
+This code repository accompanies our paper accepted for presentation at the AMIA 2025 Annual Symposium, which is scheduled to be indexed in PubMed in March 2026. We have also included the presentation slides -- please take a look if you're interested!
 
 ### Paper Title 
 APEA: A Type 1 Diabetes Self-Management Ambient-AI Assistance Tool that Bridges Trajectory Prediction, Interactive Explanation, and Just-in-Time Adaptive Intervention Action
